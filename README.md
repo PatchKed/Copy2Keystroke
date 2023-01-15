@@ -24,3 +24,11 @@ When run in conjunction with Capture2Text (https://sourceforge.net/projects/cap
 
 
 N.B. Try to capture the text when the flashing cursor isn't visible as it might mess with the captured text and always remember to turn it off after use!
+
+
+
+
+
+== License
+
+GNU General Public License, version 3 (GNU GPLv3) http://www.gnu.org/licenses/gpl-3.0.html
