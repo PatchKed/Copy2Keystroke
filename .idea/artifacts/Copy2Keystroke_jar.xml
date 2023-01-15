@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Copy2Keystroke:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Copy2Keystroke_jar</output-path>
+    <root id="archive" name="Copy2Keystroke.jar">
+      <element id="module-output" name="Copy2Keystroke" />
+    </root>
+  </artifact>
+</component>
